@@ -1,10 +1,5 @@
 # CS_HANGMAN: The Corporate Gatekeeper
 
-
-
-# CS_HANGMAN
-## The Corporate Gatekeeper
-
 > **Learn computer science. Complete challenges. Earn your clearance.**
 
 CS_HANGMAN is a gamified computer science learning platform that combines an atmospheric corporate-horror game experience with programming education, coding practice, technical challenges, and learner progression.
