@@ -1,4 +1,5 @@
-# CS_HANGMAN: The Corporate Gatekeeper
+# CS_HANGMAN: The Corporate Gatekeeper “I don't need to understand the code. I have people for that.”
+
 
 > **Learn computer science. Complete challenges. Earn your clearance.**
 
