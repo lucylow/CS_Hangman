@@ -1,4 +1,4 @@
-# CS hangman
+# CS_HANGMAN: The Corporate Gatekeeper
 
 Complete coding questions 
 
