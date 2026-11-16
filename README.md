@@ -3,9 +3,14 @@
 
 > **Learn computer science. Complete challenges. Earn your clearance.**
 
+![](https://github.com/lucylow/CS_Hangman/blob/main/Screenshot%20(1995).png?raw=true)
+
 CS_HANGMAN is a gamified computer science learning platform that combines an atmospheric corporate-horror game experience with programming education, coding practice, technical challenges, and learner progression.
 
 The platform transforms learning into an interactive journey. Players explore computer science topics, complete coding exercises, solve technical challenges, earn experience points, unlock achievements, and develop practical software engineering knowledge.
+
+![](https://github.com/lucylow/CS_Hangman/blob/main/Screenshot%20(1993).png?raw=true)
+![](https://github.com/lucylow/CS_Hangman/blob/main/Screenshot%20(1997).png?raw=true)
 
 ---
 
